@@ -1,0 +1,123 @@
+[
+  {
+    "source": "/home/rishan/education_website/1-scaled-1.jpg",
+    "output": "public/media/british-council-award-ceremony.webp",
+    "originalDimensions": [
+      2560,
+      1707
+    ],
+    "bytes": 342304,
+    "sha256": "7449fd4914f2b9fd2b08b38bc70f03fed036e3151f6e5b51d73ac7f0dc310591",
+    "rights": "User supplied; publisher to confirm permissions for identifiable people."
+  },
+  {
+    "source": "/home/rishan/education_website/656364508_1420402693452106_735482095616460226_n.jpg",
+    "output": "public/media/south-asia-growth-2026.webp",
+    "originalDimensions": [
+      1280,
+      960
+    ],
+    "bytes": 104062,
+    "sha256": "c21946856efb8f7bf8fe7f81798d23b94073695410e881f11665bf5290572e24",
+    "rights": "User supplied; publisher to confirm permissions for identifiable people."
+  },
+  {
+    "source": "/home/rishan/education_website/655165762_1589025546558866_2054242584823915641_n.jpg",
+    "output": "public/media/bangladesh-volume-award-2026.webp",
+    "originalDimensions": [
+      1536,
+      2048
+    ],
+    "bytes": 57780,
+    "sha256": "bf1cc51771b32954dce0a344057905e2a90e550ed3dd697314018d187884f657",
+    "rights": "User supplied; publisher to confirm permissions for identifiable people."
+  },
+  {
+    "source": "/home/rishan/education_website/655631821_1589025509892203_3546599025087132149_n.jpg",
+    "output": "public/media/volume-award-presentation-2026.webp",
+    "originalDimensions": [
+      1245,
+      728
+    ],
+    "bytes": 122758,
+    "sha256": "333c11417015d710e338668a7ed46a7caac5b057c59e9be071d6ad05620feb0a",
+    "rights": "User supplied; publisher to confirm permissions for identifiable people."
+  },
+  {
+    "source": "work/legacy/Hexas-education-main/project/src/assets/images/WhatsApp Image 2025-08-01 at 8.18.47 PM (1).jpeg",
+    "output": "public/media/partners-group.webp",
+    "originalDimensions": [
+      3200,
+      1141
+    ],
+    "bytes": 327966,
+    "sha256": "7c327ca21c41ab3e8054416db35b5210b916e266e25e690d736e7f935bab43f9",
+    "rights": "User supplied; publisher to confirm permissions for identifiable people."
+  },
+  {
+    "source": "work/legacy/Hexas-education-main/project/src/assets/images/WhatsApp Image 2025-08-01 at 8.18.47 PM (2).jpeg",
+    "output": "public/media/partnership-presentation.webp",
+    "originalDimensions": [
+      4160,
+      2773
+    ],
+    "bytes": 250504,
+    "sha256": "34cf13f9b5a05661ce84fe47625fe4a9f9d5e149eb24d4bfd7e6804e36fa2427",
+    "rights": "User supplied; publisher to confirm permissions for identifiable people."
+  },
+  {
+    "source": "work/legacy/Hexas-education-main/project/src/assets/images/aboutSection.jpeg",
+    "output": "public/media/institutional-recognition.webp",
+    "originalDimensions": [
+      4160,
+      2773
+    ],
+    "bytes": 323224,
+    "sha256": "419e81077da9048858ee75c23aac219231b4186918b8953b4a727ba02f7afad6",
+    "rights": "User supplied; publisher to confirm permissions for identifiable people."
+  },
+  {
+    "source": "work/legacy/Hexas-education-main/project/src/assets/images/WhatsApp Image 2025-08-01 at 8.18.48 PM.jpeg",
+    "output": "public/media/recognition-team.webp",
+    "originalDimensions": [
+      4031,
+      2878
+    ],
+    "bytes": 325328,
+    "sha256": "f99d60c3cccccb1c8ac146a178cf6ffa30738ab66589313098d1fd60a0fd9727",
+    "rights": "User supplied; publisher to confirm permissions for identifiable people."
+  },
+  {
+    "source": "work/legacy/Hexas-education-main/project/src/assets/images/WhatsApp Image 2025-08-01 at 8.18.47 PM.jpeg",
+    "output": "public/media/partnership-event.webp",
+    "originalDimensions": [
+      3200,
+      2133
+    ],
+    "bytes": 444614,
+    "sha256": "ffbb4cc940d0263fd4e31fc6b12d97338ef90ffd6a2b34db088bd9030831b30e",
+    "rights": "User supplied; publisher to confirm permissions for identifiable people."
+  },
+  {
+    "source": "work/legacy/Hexas-education-main/project/src/assets/images/WhatsApp Image 2025-08-01 at 8.18.46 PM.jpeg",
+    "output": "public/media/top-performer-trophy.webp",
+    "originalDimensions": [
+      3024,
+      4032
+    ],
+    "bytes": 100374,
+    "sha256": "b6c9a63a2bc734b30557fd07839d7b384786bb01d0aca4567a8f208394d062c9",
+    "rights": "User supplied; publisher to confirm permissions for identifiable people."
+  },
+  {
+    "source": "work/legacy/Hexas-education-main/project/src/assets/images/WhatsApp Image 2025-08-01 at 8.18.48 PM (1).jpeg",
+    "output": "public/media/hexa-team-certificate.webp",
+    "originalDimensions": [
+      4160,
+      2773
+    ],
+    "bytes": 300508,
+    "sha256": "5fea12754a4649b8621f986c2101fdad4db9f004d805ba3f5931bc78846cf520",
+    "rights": "User supplied; publisher to confirm permissions for identifiable people."
+  }
+]

@@ -1,0 +1,154 @@
+{
+  "researchedAt": "2026-11-04",
+  "founding": {
+    "year": 2007,
+    "status": "institutional-corroborated",
+    "sources": [
+      "https://www.hexasusa.com/discover-hexas",
+      "https://hexas-sylhet.com/"
+    ]
+  },
+  "branchCount": null,
+  "branches": [
+    {
+      "slug": "zindabazar",
+      "name": "Zindabazar",
+      "city": "Sylhet",
+      "address": "Level 6, Al-Hamra Shopping City, Zindabazar, Sylhet 3100",
+      "testVenueAddress": "8th Floor, Al-Hamra Shopping City, Zindabazar, Sylhet 3100",
+      "phone": "+8801923800600",
+      "website": "https://hexaszindabazar.com/",
+      "sources": [
+        "https://hexaszindabazar.com/contact-us/",
+        "https://ielts.org/test-centres/british-council-hexas-education-zindabazar-4"
+      ],
+      "courses": [
+        "ielts-academic",
+        "ielts-on-computer",
+        "spoken-english",
+        "ielts-life-skills",
+        "hicu",
+        "kids-english",
+        "grammar-writing"
+      ]
+    },
+    {
+      "slug": "majortila",
+      "name": "Majortila",
+      "city": "Sylhet",
+      "address": "Siddiquey Plaza (2nd Floor), Islampur, Majortila, Sylhet",
+      "testVenueAddress": "3rd Floor, Siddiqui Plaza, Islampur Sadar, Sylhet 3100",
+      "phone": "+8801710764801",
+      "email": "hexasmajortila@gmail.com",
+      "website": "https://www.hexasmajortila.com/",
+      "sources": [
+        "https://hexas-sylhet.com/",
+        "https://ielts.org/test-centres/british-council-hexas-education-majortila"
+      ],
+      "courses": [],
+      "note": "Course mapping pending direct branch confirmation; legacy office address should be confirmed before visiting."
+    },
+    {
+      "slug": "moulvibazar",
+      "name": "Moulvibazar",
+      "city": "Moulvibazar",
+      "address": "Shah Mostofa Garden City (2nd Floor), M. Saifur Rahman Road, Moulvibazar, Sylhet",
+      "phone": null,
+      "website": "https://ielts.org/test-centres/british-council-hexas-education-moulvibazar",
+      "sources": [
+        "https://ielts.org/test-centres/british-council-hexas-education-moulvibazar"
+      ],
+      "courses": [],
+      "note": "Official IELTS test venue verified; admissions phone and preparation courses await confirmation."
+    },
+    {
+      "slug": "ambarkhana",
+      "name": "Ambarkhana",
+      "city": "Sylhet",
+      "address": "Point View Shopping Complex (2nd Floor), Ambarkhana, Sylhet",
+      "phone": "+8801304309721",
+      "email": "info@hexasambarkhana.com",
+      "website": "https://hexasambarkhana.com/",
+      "sources": [
+        "https://hexasambarkhana.com/",
+        "https://hexasambarkhana.com/courses/"
+      ],
+      "courses": [
+        "ielts-academic",
+        "ielts-on-computer",
+        "ielts-life-skills",
+        "spoken-english",
+        "hicu",
+        "grammar-writing",
+        "basic-computer",
+        "graphic-design"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Highest Volume Contributor Bangladesh",
+      "year": 2026,
+      "issuer": "British Council",
+      "scope": "HEXA’S Education",
+      "status": "supplied-photo-evidence",
+      "image": "655165762_1589025546558866_2054242584823915641_n.jpg",
+      "sources": [
+        "https://bd.linkedin.com/in/jilanysyl"
+      ]
+    },
+    {
+      "title": "Highest Growth South Asia",
+      "year": 2026,
+      "issuer": "British Council",
+      "scope": "HEXA’S Education",
+      "status": "supplied-photo-and-institutional",
+      "image": "656364508_1420402693452106_735482095616460226_n.jpg",
+      "sources": [
+        "https://hexaszindabazar.com/our-success/"
+      ]
+    },
+    {
+      "title": "Five-time Country Top Performer",
+      "year": null,
+      "issuer": "British Council",
+      "scope": "Zindabazar, per branch source",
+      "status": "institutional-report",
+      "sources": [
+        "https://hexaszindabazar.com/our-success/"
+      ],
+      "note": "User confirms five consecutive years; exact annual sequence and organizational recipient require certificate evidence. Do not invent 2022–2026."
+    }
+  ],
+  "studentResults": [
+    {
+      "name": "Md Hussain Ahmed Shomrat",
+      "band": 8.5
+    },
+    {
+      "name": "Syed Nasif Hossain",
+      "band": 8.0
+    },
+    {
+      "name": "Afrida Raisa",
+      "band": 8.0
+    },
+    {
+      "name": "Syed Aahyan Hoque",
+      "band": 8.0
+    }
+  ],
+  "studentResultsSource": "https://hexaszindabazar.com/",
+  "studentResultsStatus": "Zindabazar-reported; no independent TRF authentication or portrait consent",
+  "operationalLinks": {
+    "studentPortal": "https://appsznd.hexaszindabazar.com/student/login",
+    "examRegistration": "https://hexaszindabazar.com/exam-registration/"
+  },
+  "publishRules": [
+    "Never claim verified directory subset is complete branch network.",
+    "Do not publish 12 or 14 as current branch count.",
+    "Separate admissions floors from official test venue floors.",
+    "Do not generalize branch awards or facilities to the whole organization.",
+    "No live availability, fees, batch schedules, success percentages, invented testimonials or national rankings."
+  ]
+}

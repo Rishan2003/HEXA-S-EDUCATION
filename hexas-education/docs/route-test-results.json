@@ -1,0 +1,167 @@
+[
+  {
+    "path": "/",
+    "status": 200
+  },
+  {
+    "path": "/about",
+    "status": 200
+  },
+  {
+    "path": "/achievements",
+    "status": 200
+  },
+  {
+    "path": "/achievements/country-top-performer",
+    "status": 200
+  },
+  {
+    "path": "/achievements/highest-growth-south-asia-2026",
+    "status": 200
+  },
+  {
+    "path": "/achievements/highest-volume-bangladesh-2026",
+    "status": 200
+  },
+  {
+    "path": "/bn",
+    "status": 200
+  },
+  {
+    "path": "/branches",
+    "status": 200
+  },
+  {
+    "path": "/branches/ambarkhana",
+    "status": 200
+  },
+  {
+    "path": "/branches/majortila",
+    "status": 200
+  },
+  {
+    "path": "/branches/moulvibazar",
+    "status": 200
+  },
+  {
+    "path": "/branches/zindabazar",
+    "status": 200
+  },
+  {
+    "path": "/contact",
+    "status": 200
+  },
+  {
+    "path": "/courses",
+    "status": 200
+  },
+  {
+    "path": "/courses/basic-computer",
+    "status": 200
+  },
+  {
+    "path": "/courses/grammar-writing",
+    "status": 200
+  },
+  {
+    "path": "/courses/graphic-design",
+    "status": 200
+  },
+  {
+    "path": "/courses/hicu",
+    "status": 200
+  },
+  {
+    "path": "/courses/ielts-academic",
+    "status": 200
+  },
+  {
+    "path": "/courses/ielts-life-skills",
+    "status": 200
+  },
+  {
+    "path": "/courses/ielts-on-computer",
+    "status": 200
+  },
+  {
+    "path": "/courses/kids-english",
+    "status": 200
+  },
+  {
+    "path": "/courses/spoken-english",
+    "status": 200
+  },
+  {
+    "path": "/facilities",
+    "status": 200
+  },
+  {
+    "path": "/gallery",
+    "status": 200
+  },
+  {
+    "path": "/icon.svg",
+    "status": 200
+  },
+  {
+    "path": "/news",
+    "status": 200
+  },
+  {
+    "path": "/news/bangladesh-contributor-2026",
+    "status": 200
+  },
+  {
+    "path": "/news/choosing-your-ielts-pathway",
+    "status": 200
+  },
+  {
+    "path": "/news/regional-recognition-2026",
+    "status": 200
+  },
+  {
+    "path": "/partnerships",
+    "status": 200
+  },
+  {
+    "path": "/privacy",
+    "status": 200
+  },
+  {
+    "path": "/robots.txt",
+    "status": 200
+  },
+  {
+    "path": "/sitemap.xml",
+    "status": 200
+  },
+  {
+    "path": "/success",
+    "status": 200
+  },
+  {
+    "path": "/missing-page",
+    "status": 404,
+    "location": null
+  },
+  {
+    "path": "/courses/not-a-course",
+    "status": 404,
+    "location": null
+  },
+  {
+    "path": "/branches/not-a-branch",
+    "status": 404,
+    "location": null
+  },
+  {
+    "path": "/campuses",
+    "status": 308,
+    "location": "/branches"
+  },
+  {
+    "path": "/batches",
+    "status": 308,
+    "location": "/contact"
+  }
+]
